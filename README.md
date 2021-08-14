@@ -8,11 +8,12 @@
     ✔Updated Semantic Elemants 
     ✔Consolidated CSS
 ## Created with:
-   HTML and CSS
+  * HTML 
+  *  CSS
 
 #### -Work done by: Travis Tybor
 
--2021-
+-2021 -
 
 
 
