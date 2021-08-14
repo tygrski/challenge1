@@ -8,7 +8,7 @@
     -Updated Title 
     -Fixed Nav Bar links 
     -Updated Semantic Elemants 
-    -Consolidated CSS.
+    -Consolidated CSS
 ## Created with:
     -HTML and CSS
 
