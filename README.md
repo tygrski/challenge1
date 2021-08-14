@@ -1,4 +1,4 @@
-# Horisen Soocial Media Marketing Website
+# Horisen 
 
 ## Live Link to Website: [https://tygrski.github.io/challenge1/]
 
@@ -8,6 +8,8 @@
 ## -Created with HTML and CSS
 
 #### -Work done by Travis Tybor
+
+2021
 
 
 
